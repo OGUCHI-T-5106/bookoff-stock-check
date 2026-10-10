@@ -22,9 +22,9 @@ PRODUCTS = [
         "url": "https://shopping.bookoff.co.jp/used/0016903011",
     },
     {
-        "id": "0019201603",
+        "id": "0010470946",
         "name": "BOOKOFF監視商品2",
-        "url": "https://shopping.bookoff.co.jp/used/0019201603",
+        "url": "https://shopping.bookoff.co.jp/used/0010470946",
     },
     # 商品を追加する場合は、下のように追記
     # {
