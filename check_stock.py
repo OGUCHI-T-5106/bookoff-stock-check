@@ -5,6 +5,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 URL = "https://shopping.bookoff.co.jp/used/0016903011"
+URL = "https://shopping.bookoff.co.jp/used/0019201603"
 
 GMAIL_USER = os.environ["GMAIL_USER"]
 GMAIL_PASS = os.environ["GMAIL_PASS"]
